@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\bin\Debug\net5.0\DelegateHomework.exe
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\bin\Debug\net5.0\DelegateHomework.deps.json
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\bin\Debug\net5.0\DelegateHomework.runtimeconfig.json
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\bin\Debug\net5.0\DelegateHomework.runtimeconfig.dev.json
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\bin\Debug\net5.0\DelegateHomework.dll
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\bin\Debug\net5.0\ref\DelegateHomework.dll
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\bin\Debug\net5.0\DelegateHomework.pdb
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\obj\Debug\net5.0\DelegateHomework.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\obj\Debug\net5.0\DelegateHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\obj\Debug\net5.0\DelegateHomework.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\obj\Debug\net5.0\DelegateHomework.AssemblyInfo.cs
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\obj\Debug\net5.0\DelegateHomework.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\obj\Debug\net5.0\DelegateHomework.dll
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\obj\Debug\net5.0\ref\DelegateHomework.dll
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\obj\Debug\net5.0\DelegateHomework.pdb
+C:\Users\user\source\repos\DelegateHomework\DelegateHomework\obj\Debug\net5.0\DelegateHomework.genruntimeconfig.cache
