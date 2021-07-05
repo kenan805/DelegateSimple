@@ -14,7 +14,7 @@ namespace DelegateHomework
     {
         public void Space(string str)
         {
-            Console.WriteLine("------ Space ------");
+            Console.WriteLine("------- Space -------");
             Console.WriteLine($"Before: {str}");
             string[] newStr = new string[str.Length * 2 - 1];
             newStr[0] = str[0].ToString();
@@ -35,7 +35,7 @@ namespace DelegateHomework
         }
         public void Reverse(string str)
         {
-            Console.WriteLine("------ Reverse ------");
+            Console.WriteLine("------- Reverse -------");
             Console.WriteLine($"Before: {str}");
             string[] newStr = new string[str.Length];
             for (int i = 0, j = str.Length - 1; i < newStr.Length; i++, j--)
